@@ -1,7 +1,6 @@
 # 🎶 SongenAI
 ---
-This project is a full stack application for AI music generation.  
-Users can create ai songs from text prompts, custom lyrics, or style descriptions with options for instrumental tracks, AI generated thumbnails, and a personal dashboard to manage their creations. 
+This project is a full stack application for AI music generation. Users can create ai songs from text prompts, custom lyrics, or style descriptions with options for instrumental tracks, AI generated thumbnails, and a personal dashboard to manage their creations. 
 
 ## ✨ Key Features
 
@@ -23,7 +22,7 @@ Users can create ai songs from text prompts, custom lyrics, or style description
 ## 🛠️ Tech Stack
 
 **Frontend**
-- Next.js 15, React, TypeScript  
+- Next.js, React, TypeScript  
 - Tailwind CSS, ShadCN UI  
 - BetterAuth for authentication  
 
@@ -34,11 +33,3 @@ Users can create ai songs from text prompts, custom lyrics, or style description
 - Neon (serverless Postgres)  
 - AWS S3 (storage)
   
----
-
-<<<<<<< HEAD
-This architecture ensures **scalability, cost-efficiency, and production readiness**.  
-
-=======
-This architecture ensures **scalability, cost-efficiency, and production readiness**.  
->>>>>>> 7a110e7 (update)
